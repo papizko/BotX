@@ -215,11 +215,11 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6285752765133')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6285756244558')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6285725833708')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6285756244558')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 		
 	
@@ -305,8 +305,8 @@ if (!subscribe) {
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │✙ 𝗙𝗲𝗮𝘁𝘂𝗿𝗲 : ONLINE | LANCAR
 │✙ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
-│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : Xin
-│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : 6282143067466
+│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : 𝕻𝖆𝖕𝖎𝖟𝖐𝖔🔱
+│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : 6282260311293
 │✙ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${alldata.totaldata}
 └┬──────────┈ ⳹
     │✑ Please Choose The Menu
@@ -388,8 +388,8 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │✙ 𝗙𝗲𝗮𝘁𝘂𝗿𝗲 : ONLINE | LANCAR
 │✙ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
-│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : Xin
-│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : 6282143067466
+│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : 𝕻𝖆𝖕𝖎𝖟𝖐𝖔🔱
+│✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : 6282260311293
 │✙ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${alldata.totaldata}
 └┬──────────┈ ⳹
     │✑ Please Choose The Menu
@@ -675,10 +675,10 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Berhasil Mengeksekusi Target 〕*
 
@@ -709,10 +709,10 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Berhasil Mengeksekusi Target 〕*
 
@@ -778,10 +778,10 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Berhasil Mengeksekusi Target 〕*
 
@@ -929,10 +929,10 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Berhasil Mengeksekusi Target 〕*
 
@@ -1205,10 +1205,10 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Berhasil Mengeksekusi Target 〕*
 
@@ -2445,10 +2445,10 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Berhasil Mengeksekusi Target 〕*
 
@@ -4877,10 +4877,10 @@ const tanggal = moment.tz('Asia/Jakarta').format('dddd') + ', ' + moment.tz('Asi
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Berhasil Mengeksekusi Target 〕*
 
@@ -9856,10 +9856,10 @@ ispaket3 = dataanu.paket3.includes(nomore2)
                      XeonBotInc.sendButtonText(m.chat, buttons, `Maaf Anda belum bisa mengakses fitur ini\n Anda harus berlangganan Sewa BOT Paket 3 agar dapat menggunakan Fitur ini`, `Ketik ${prefix}sewa\n untuk melihat harga sewa BOT, \nketik ${prefix}owner\nuntuk melihat nomor owner`, m)
 } else if (!text) { throw `*Masukan Nomor WhatsApp Target !*\n_Contoh:_\n${prefix + command} 6282143067466`
 } else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6285230122985')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
-} else if (nomore3.includes('6282143067466')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
+} else if (nomore3.includes('6282260311293')) { throw `*ITU NOMOR OWNER BOT 😡😈🖕*`
 } else {
 	reply(`*〔 Mengeksekusi Target 〕*
 
