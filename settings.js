@@ -21,27 +21,27 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6282143067466']
-global.premium = ['6282143067466']
-global.ownernomer = '6282143067466'
-global.ownername = 'Xin'
-global.botname = 'Xin'
-global.footer = '© Xin'
+global.owner = ['6282260311293']
+global.premium = ['6282260311293']
+global.ownernomer = '6282260311293'
+global.ownername = '𝕻𝖆𝖕𝖎𝖟𝖐𝖔🔱'
+global.botname = '𝕻𝖆𝖕𝖎𝖟𝖐𝖔🔱'
+global.footer = '© 𝕻𝖆𝖕𝖎𝖟𝖐𝖔🔱'
 global.ig = ''
 global.region = ''
 global.sc = ''
 global.myweb = ''
-global.packname = 'Xinn'
-global.author = 'Xinn'
+global.packname = '𝕻𝖆𝖕𝖎𝖟𝖐𝖔🔱'
+global.author = '𝕻𝖆𝖕𝖎𝖟𝖐𝖔🔱'
 
 global.userjson = `https://xinnchan.github.io/alldata.json`
 
 
 global.bot1 = '6285756244558'
-global.bot2 = '6282143067466'
-global.bot3 = '6282143067466'
-global.bot4 = '6282143067466'
-global.bot5 = '6282143067466'
+global.bot2 = '6282260311293'
+global.bot3 = '6282260311293'
+global.bot4 = '6282260311293'
+global.bot5 = '6282260311293'
 
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
